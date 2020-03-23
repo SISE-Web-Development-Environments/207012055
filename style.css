@@ -3,11 +3,28 @@
 	position: fixed;
 	width: 100%;
 	height: 35px;
-	background: gray;
+	background-color: #333;
+	overflow: hidden;
+	float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
+
+#menu a:hover {
+	color:grey;
+	font-size: 23px;
+
+  }
+
+
 
 body {
 	background-image: url("BG2.jpg");
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-color: #cccccc;
 }
