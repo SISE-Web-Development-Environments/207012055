@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<title>Eric Cartmen</title>
+<body>
+
+
+
+
+
+<section id="about" class="section">
+    <br>
+    <br>
+    <br>
+    <h1>Eric Cartmen</h1>
+<p>Eric Theodore <b>Cartman</b>, is a main character in the animated television series South Park. Cartman is an elementary school student who lives with his mother in the fictional town of South Park, Colorado, where he routinely has extraordinary experiences atypical of a small town. Cartman has been portrayed as aggressive, prejudiced, arrogant and narcissistic since his character's inception.</p>
+  </section>
+
+
+<div id="menu">
+    <ul>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#photos">My Photos</a></li>
+    <li><a href="#playlist">My Playlist</a></li>
+    <li><a href="#like">Like</a></li>
+    <li><a href="#qrcoder">QR code</a></li>
+    <li><a href="#spa">Q&amp;A</a></li>
+    <li><a href="#contact">Contact Me</a></li>
+  </ul>
+  </div>
+
+
+<section id="about" class="section">
+Some photos
+</p>
+<div class="row">
+  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/EricCartman.png/220px-EricCartman.png">
+    <img src="https://rukminim1.flixcart.com/image/832/832/laptop-skin-decal/n/j/h/15-6-ownclique-eric-cartman-in-south-park-original-imaefzbnwnbzjyxd.jpeg?q=70">
+    <img src="https://southparkstudios.mtvnimages.com/images/south_park/episode_thumbnails/s09e06_720.jpg">
+  </div>
+</div>
+</section>
+
+
+
+
+
+
+</body>
+</html>

@@ -3,5 +3,27 @@
 	position: fixed;
 	width: 100%;
 	height: 35px;
-	background: white;
+	background: gray;
 }
+
+body {
+	background-image: url("BG2.jpg");
+	background-attachment: fixed;
+	background-color: #cccccc;
+}
+
+body {
+	font-size: 150%;
+	color: blueviolet;
+
+}
+
+li{
+	resize: none;
+	display: inline
+}
+
+#playlist {
+	margin-right: auto;
+}
+
