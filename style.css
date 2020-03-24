@@ -31,8 +31,12 @@ body {
 
 body {
 	font-size: 150%;
-	color: blueviolet;
+	color: darkmagenta;
 
+}
+
+#photos img:hover {
+	transform: scale(1.3);
 }
 
 li{
