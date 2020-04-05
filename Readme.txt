@@ -1,5 +1,6 @@
 טל פרימרמן 207012055
 
-https://sise-web-development-environments.github.io/assignment1-talfrim/
+https://sise-web-development-environments.github.io/207012055
 
+*בבקשה לפתוח עם דפדפן edge
 *שליחת סמיילי מתבצעת על ידי העתקה והדבקה של סמיילי רצוי לגוף ההודעה.
